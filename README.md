@@ -1,0 +1,1 @@
+Using Scheduling library, among others, I use email automatically to send myself motivational quotes automatically.
